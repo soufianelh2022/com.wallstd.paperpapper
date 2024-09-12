@@ -37,7 +37,7 @@
     },
 
     {
-        "url": "https://sun9-77.userapi.com/impg/dkGzM0n0guiSMvV66hQifO8lD39btmlxdydk_w/U5eoLJusSOs.jpg?size=1280x720&quality=95&sign=ebe33e6ba1eb195469a28aac499d3578&c_uniq_tag=io5BfqqtPaJB18j5HBq0QhNBbOkQ5ROYP5YPYOplx4A&type=album",
+        "url": "https://pic.rutubelist.ru/video/db/90/db90a565a60413662c5f66f9083eb7d1.jpg",
         "title": "стандофф  Обои 10"
     }
 ]
